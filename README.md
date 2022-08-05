@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bajwa-Ajai
-- 👀 I'm a Third year in Thapar patiala
+- 👀 I'm a Fourth year in Thapar patiala
       I'am  a C++/Python coder 
 - I’m currently learning Machine learning and Deep Learning
 - Familiar with Javascript,ReactJS and React-Native.
